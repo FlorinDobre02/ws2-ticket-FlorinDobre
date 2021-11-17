@@ -1,0 +1,18 @@
+{
+  "DisplayInMenu": false,
+  "ParentPageId": -1,
+  "RecordNamePropertyId": 1,
+  "ShowDashboardModule": false,
+  "Id": 1,
+  "VersionId": 1,
+  "EntityTabId": -1,
+  "Name": "User",
+  "PluralName": "Users",
+  "CreatedDate": "2021-11-17T06:09:35.3366667",
+  "CreatedBy": "SuperUser Account",
+  "Icon": "user",
+  "NamespaceId": 2,
+  "Type": "BuiltIn",
+  "BuiltInType": "Users",
+  "EnableIndexing": false
+}
