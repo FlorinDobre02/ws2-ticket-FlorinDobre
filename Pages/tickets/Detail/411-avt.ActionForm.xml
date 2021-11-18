@@ -7,7 +7,6 @@
     <cachemethod />
     <cachetime>0</cachetime>
     <color />
-    <containersrc />
     <displayprint>true</displayprint>
     <displaysyndicate>false</displaysyndicate>
     <displaytitle>true</displaytitle>
@@ -46,7 +45,7 @@
       &lt;BindValue&gt;&lt;![CDATA[]]&gt;&lt;/BindValue&gt;
       &lt;BindOnChange&gt;&lt;![CDATA[]]&gt;&lt;/BindOnChange&gt;
       &lt;InputType&gt;static-text&lt;/InputType&gt;
-      &lt;InputData&gt;{&quot;Value&quot;:&quot;\u003cdiv class=\&quot;entity-details-container\&quot;\u003e\r\n    \u003cdiv class=\&quot;properties-container text\&quot;\u003e\r\n        \u003cdiv class=\&quot;entity-property\&quot;\u003e\r\n            \u003cspan class=\&quot;material-icons\&quot;\u003eshort_text\u003c/span\u003e\r\n            \u003cspan class=\&quot;entity-property-name\&quot;\u003eSubject:\u003c/span\u003e\r\n        \u003c/div\u003e\r\n        \u003cdiv class=\&quot;entity-value\&quot;\u003e[original:Subject=\u0027-\u0027]\u003c/div\u003e\r\n    \u003c/div\u003e\r\n    \u003cdiv class=\&quot;properties-container largetext\&quot;\u003e\r\n        \u003cdiv class=\&quot;entity-property\&quot;\u003e\r\n            \u003cspan class=\&quot;material-icons\&quot;\u003enotes\u003c/span\u003e\r\n            \u003cspan class=\&quot;entity-property-name\&quot;\u003eDetails:\u003c/span\u003e\r\n        \u003c/div\u003e\r\n        \u003cdiv class=\&quot;entity-value\&quot;\u003e[original:Details=\u0027-\u0027]\u003c/div\u003e\r\n    \u003c/div\u003e\r\n    \u003cdiv class=\&quot;properties-container text\&quot;\u003e\r\n        \u003cdiv class=\&quot;entity-property\&quot;\u003e\r\n            \u003cspan class=\&quot;material-icons\&quot;\u003eshort_text\u003c/span\u003e\r\n            \u003cspan class=\&quot;entity-property-name\&quot;\u003eFirst Name:\u003c/span\u003e\r\n        \u003c/div\u003e\r\n        \u003cdiv class=\&quot;entity-value\&quot;\u003e[original:FirstName=\u0027-\u0027]\u003c/div\u003e\r\n    \u003c/div\u003e\r\n    \u003cdiv class=\&quot;properties-container text\&quot;\u003e\r\n        \u003cdiv class=\&quot;entity-property\&quot;\u003e\r\n            \u003cspan class=\&quot;material-icons\&quot;\u003eshort_text\u003c/span\u003e\r\n            \u003cspan class=\&quot;entity-property-name\&quot;\u003eLast Name:\u003c/span\u003e\r\n        \u003c/div\u003e\r\n        \u003cdiv class=\&quot;entity-value\&quot;\u003e[original:LastName=\u0027-\u0027]\u003c/div\u003e\r\n    \u003c/div\u003e\r\n    \u003cdiv class=\&quot;properties-container email\&quot;\u003e\r\n        \u003cdiv class=\&quot;entity-property\&quot;\u003e\r\n            \u003cspan class=\&quot;material-icons\&quot;\u003email_outline\u003c/span\u003e\r\n            \u003cspan class=\&quot;entity-property-name\&quot;\u003eEmail:\u003c/span\u003e\r\n        \u003c/div\u003e\r\n        \u003cdiv class=\&quot;entity-value\&quot;\u003e\r\n            \u003ca href=\&quot;mailto:[original:Email=\u0027-\u0027]\&quot;\u003e[original:Email=\u0027-\u0027]\u003c/a\u003e\r\n        \u003c/div\u003e\r\n    \u003c/div\u003e\r\n    \u003cdiv class=\&quot;properties-container phone\&quot;\u003e\r\n        \u003cdiv class=\&quot;entity-property\&quot;\u003e\r\n            \u003cspan class=\&quot;material-icons\&quot;\u003ephone\u003c/span\u003e\r\n            \u003cspan class=\&quot;entity-property-name\&quot;\u003ephone:\u003c/span\u003e\r\n        \u003c/div\u003e\r\n        \u003cdiv class=\&quot;entity-value\&quot;\u003e\r\n            \u003ca href=\&quot;tel:[original:phone=\u0027-\u0027]\&quot;\u003e[original:phone=\u0027-\u0027]\u003c/a\u003e\r\n        \u003c/div\u003e\r\n    \u003c/div\u003e\r\n\u003c/div\u003e&quot;}&lt;/InputData&gt;
+      &lt;InputData&gt;{&quot;Value&quot;:&quot;\u003cdiv class=\&quot;entity-details-container\&quot;\u003e\r\n    \u003cdiv class=\&quot;properties-container text\&quot;\u003e\r\n        \u003cdiv class=\&quot;entity-property\&quot;\u003e\r\n            \u003cspan class=\&quot;material-icons\&quot;\u003eshort_text\u003c/span\u003e\r\n            \u003cspan class=\&quot;entity-property-name\&quot;\u003eSubject:\u003c/span\u003e\r\n        \u003c/div\u003e\r\n        \u003cdiv class=\&quot;entity-value\&quot;\u003e[original:Subject=\u0027-\u0027]\u003c/div\u003e\r\n    \u003c/div\u003e\r\n    \u003cdiv class=\&quot;properties-container largetext\&quot;\u003e\r\n        \u003cdiv class=\&quot;entity-property\&quot;\u003e\r\n            \u003cspan class=\&quot;material-icons\&quot;\u003enotes\u003c/span\u003e\r\n            \u003cspan class=\&quot;entity-property-name\&quot;\u003eDetails:\u003c/span\u003e\r\n        \u003c/div\u003e\r\n        \u003cdiv class=\&quot;entity-value\&quot;\u003e[original:Details=\u0027-\u0027]\u003c/div\u003e\r\n    \u003c/div\u003e\r\n    \u003cdiv class=\&quot;properties-container text\&quot;\u003e\r\n        \u003cdiv class=\&quot;entity-property\&quot;\u003e\r\n            \u003cspan class=\&quot;material-icons\&quot;\u003eshort_text\u003c/span\u003e\r\n            \u003cspan class=\&quot;entity-property-name\&quot;\u003eFirst Name:\u003c/span\u003e\r\n        \u003c/div\u003e\r\n        \u003cdiv class=\&quot;entity-value\&quot;\u003e[original:FirstName=\u0027-\u0027]\u003c/div\u003e\r\n    \u003c/div\u003e\r\n    \u003cdiv class=\&quot;properties-container text\&quot;\u003e\r\n        \u003cdiv class=\&quot;entity-property\&quot;\u003e\r\n            \u003cspan class=\&quot;material-icons\&quot;\u003eshort_text\u003c/span\u003e\r\n            \u003cspan class=\&quot;entity-property-name\&quot;\u003eLast Name:\u003c/span\u003e\r\n        \u003c/div\u003e\r\n        \u003cdiv class=\&quot;entity-value\&quot;\u003e[original:LastName=\u0027-\u0027]\u003c/div\u003e\r\n    \u003c/div\u003e\r\n    \u003cdiv class=\&quot;properties-container phone\&quot;\u003e\r\n        \u003cdiv class=\&quot;entity-property\&quot;\u003e\r\n            \u003cspan class=\&quot;material-icons\&quot;\u003ephone\u003c/span\u003e\r\n            \u003cspan class=\&quot;entity-property-name\&quot;\u003ephone:\u003c/span\u003e\r\n        \u003c/div\u003e\r\n        \u003cdiv class=\&quot;entity-value\&quot;\u003e\r\n            \u003ca href=\&quot;tel:[original:phone=\u0027-\u0027]\&quot;\u003e[original:phone=\u0027-\u0027]\u003c/a\u003e\r\n        \u003c/div\u003e\r\n    \u003c/div\u003e\r\n    \u003cdiv class=\&quot;properties-container email\&quot;\u003e\r\n        \u003cdiv class=\&quot;entity-property\&quot;\u003e\r\n            \u003cspan class=\&quot;material-icons\&quot;\u003email_outline\u003c/span\u003e\r\n            \u003cspan class=\&quot;entity-property-name\&quot;\u003eEmail:\u003c/span\u003e\r\n        \u003c/div\u003e\r\n        \u003cdiv class=\&quot;entity-value\&quot;\u003e\r\n            \u003ca href=\&quot;mailto:[original:Email=\u0027-\u0027]\&quot;\u003e[original:Email=\u0027-\u0027]\u003c/a\u003e\r\n        \u003c/div\u003e\r\n    \u003c/div\u003e\r\n\u003c/div\u003e&quot;}&lt;/InputData&gt;
       &lt;Value&gt;&lt;![CDATA[&lt;div class=&quot;entity-details-container&quot;&gt;
     &lt;div class=&quot;properties-container text&quot;&gt;
         &lt;div class=&quot;entity-property&quot;&gt;
@@ -76,15 +75,6 @@
         &lt;/div&gt;
         &lt;div class=&quot;entity-value&quot;&gt;[original:LastName=&#39;-&#39;]&lt;/div&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;properties-container email&quot;&gt;
-        &lt;div class=&quot;entity-property&quot;&gt;
-            &lt;span class=&quot;material-icons&quot;&gt;mail_outline&lt;/span&gt;
-            &lt;span class=&quot;entity-property-name&quot;&gt;Email:&lt;/span&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;entity-value&quot;&gt;
-            &lt;a href=&quot;mailto:[original:Email=&#39;-&#39;]&quot;&gt;[original:Email=&#39;-&#39;]&lt;/a&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
     &lt;div class=&quot;properties-container phone&quot;&gt;
         &lt;div class=&quot;entity-property&quot;&gt;
             &lt;span class=&quot;material-icons&quot;&gt;phone&lt;/span&gt;
@@ -92,6 +82,15 @@
         &lt;/div&gt;
         &lt;div class=&quot;entity-value&quot;&gt;
             &lt;a href=&quot;tel:[original:phone=&#39;-&#39;]&quot;&gt;[original:phone=&#39;-&#39;]&lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;properties-container email&quot;&gt;
+        &lt;div class=&quot;entity-property&quot;&gt;
+            &lt;span class=&quot;material-icons&quot;&gt;mail_outline&lt;/span&gt;
+            &lt;span class=&quot;entity-property-name&quot;&gt;Email:&lt;/span&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;entity-value&quot;&gt;
+            &lt;a href=&quot;mailto:[original:Email=&#39;-&#39;]&quot;&gt;[original:Email=&#39;-&#39;]&lt;/a&gt;
         &lt;/div&gt;
     &lt;/div&gt;
 &lt;/div&gt;]]&gt;&lt;/Value&gt;
@@ -179,7 +178,7 @@
       &lt;ActionType&gt;ShowError&lt;/ActionType&gt;
       &lt;OrderIndex&gt;0&lt;/OrderIndex&gt;
       &lt;Condition&gt;![HasRole:10] &amp;amp;&amp;amp; ![HasRole:11] &amp;amp;&amp;amp; ![HasRole:-1] &amp;amp;&amp;amp; ![HasRole:6] &amp;amp;&amp;amp; ![HasRole:7] &amp;amp;&amp;amp; ![HasRole:5] &amp;amp;&amp;amp; ![HasRole:8] &amp;amp;&amp;amp; ![HasRole:9]&lt;/Condition&gt;
-      &lt;LastModified&gt;2021-11-18T18:09:54.477&lt;/LastModified&gt;
+      &lt;LastModified&gt;2021-11-18T18:30:45.077&lt;/LastModified&gt;
       &lt;LastModifiedBy&gt;2&lt;/LastModifiedBy&gt;
       &lt;ActionData&gt;{&quot;Message&quot;:&quot;You are not allowed to view this item.&quot;}&lt;/ActionData&gt;
       &lt;ModuleId&gt;411&lt;/ModuleId&gt;
@@ -194,7 +193,7 @@
       &lt;IsDeleted&gt;false&lt;/IsDeleted&gt;
       &lt;ActionType&gt;InjectData&lt;/ActionType&gt;
       &lt;OrderIndex&gt;0&lt;/OrderIndex&gt;
-      &lt;LastModified&gt;2021-11-18T18:09:54.477&lt;/LastModified&gt;
+      &lt;LastModified&gt;2021-11-18T18:30:45.077&lt;/LastModified&gt;
       &lt;LastModifiedBy&gt;2&lt;/LastModifiedBy&gt;
       &lt;ActionData&gt;{&quot;Data&quot;:[{&quot;name&quot;:&quot;original:Subject&quot;,&quot;value&quot;:&quot;&quot;},{&quot;name&quot;:&quot;original:Details&quot;,&quot;value&quot;:&quot;&quot;},{&quot;name&quot;:&quot;original:FirstName&quot;,&quot;value&quot;:&quot;&quot;},{&quot;name&quot;:&quot;original:LastName&quot;,&quot;value&quot;:&quot;&quot;},{&quot;name&quot;:&quot;original:Email&quot;,&quot;value&quot;:&quot;&quot;},{&quot;name&quot;:&quot;original:phone&quot;,&quot;value&quot;:&quot;&quot;}]}&lt;/ActionData&gt;
       &lt;ModuleId&gt;411&lt;/ModuleId&gt;
@@ -208,7 +207,7 @@
       &lt;IsDeleted&gt;false&lt;/IsDeleted&gt;
       &lt;ActionType&gt;PlantAnApp.ReadEntity.0.ticket&lt;/ActionType&gt;
       &lt;OrderIndex&gt;1&lt;/OrderIndex&gt;
-      &lt;LastModified&gt;2021-11-18T18:09:54.477&lt;/LastModified&gt;
+      &lt;LastModified&gt;2021-11-18T18:30:45.077&lt;/LastModified&gt;
       &lt;LastModifiedBy&gt;2&lt;/LastModifiedBy&gt;
       &lt;ActionData&gt;{&quot;RecordId&quot;:&quot;[QueryString:ticketId=]&quot;,&quot;OutputToken&quot;:&quot;original&quot;}&lt;/ActionData&gt;
       &lt;ModuleId&gt;411&lt;/ModuleId&gt;
