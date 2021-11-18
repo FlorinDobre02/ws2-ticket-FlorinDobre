@@ -1,0 +1,17 @@
+{
+  "DisplayInMenu": true,
+  "ParentPageId": -1,
+  "RecordNamePropertyId": 12,
+  "ShowDashboardModule": false,
+  "Id": 7,
+  "VersionId": 7,
+  "EntityTabId": 49,
+  "Name": "ticket",
+  "PluralName": "tickets",
+  "CreatedDate": "2021-11-18T18:09:51.2733333",
+  "CreatedBy": "Florin Dobre",
+  "Icon": "question",
+  "NamespaceId": 3,
+  "Type": "UserCreated",
+  "EnableIndexing": false
+}
