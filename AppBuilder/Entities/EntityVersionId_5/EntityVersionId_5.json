@@ -1,0 +1,17 @@
+{
+  "DisplayInMenu": true,
+  "ParentPageId": -1,
+  "RecordNamePropertyId": 7,
+  "ShowDashboardModule": false,
+  "Id": 5,
+  "VersionId": 5,
+  "EntityTabId": 45,
+  "Name": "person",
+  "PluralName": "persons",
+  "CreatedDate": "2021-11-18T13:17:10.9166667",
+  "CreatedBy": "Florin Dobre",
+  "Icon": "table",
+  "NamespaceId": 3,
+  "Type": "UserCreated",
+  "EnableIndexing": true
+}
